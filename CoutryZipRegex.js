@@ -1,4 +1,4 @@
-export const COUNTRY_ADDRESS_POSTALS = [{
+ [{
     abbrev: 'AF',
     name: 'Afghanistan',
     postal: /[0-9]{4}/g,
